@@ -24,8 +24,8 @@
 <v t="leo.20200617234649.1"><vh>week1</vh>
 <v t="leo.20200617234649.2"><vh>week1</vh></v>
 </v>
-<v t="leo.20200617234656.1"><vh>封面投影片</vh>
-<v t="leo.20200617234656.2"><vh>封面投影片內容</vh></v>
+<v t="leo.20200617234656.1"><vh>week2</vh>
+<v t="leo.20200617234656.2"><vh>week2</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -51,13 +51,14 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">## 協同產品設計實習
 
 ### 40723244 劉冠志
 
-&lt;small&gt;
+
 [個人網站](https://s40723244.github.io/cd2020/content/index.html)
-&lt;/small&gt;
+
+[分組網站](https://s40723221.github.io/cd2020bg2/content/index.html)
 
 [CMSimfly 網誌](./../blog/index.html)
 
@@ -338,15 +339,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200617234649.2">## CMSimfly 網際內容管理
+<t tx="leo.20200617234649.2">## WEEK1 任務目標
 
-### 40723244 劉冠志
+1.建立個人倉儲
 
-&lt;small&gt;
-[課程網站](https://s40723244.github.io/cd2020/content/index.html)
-&lt;/small&gt;
-
-[CMSimfly 網誌](./../blog/index.html)
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/R7eVU4VwxHE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -359,15 +356,18 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200617234656.2">## CMSimfly 網際內容管理
+<t tx="leo.20200617234656.2">## WEEK2-5 任務目標
 
-### 40723244 劉冠志
+1.更新python至3.8.2
 
-&lt;small&gt;
-[課程網站](https://s40723244.github.io/cd2020/content/index.html)
-&lt;/small&gt;
+2.創建分組倉儲
 
-[CMSimfly 網誌](./../blog/index.html)
+3.各組分配assignment1作業
+
+4.各自完成assignment1報告
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/vKXiT8ARbAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 
 </t>
