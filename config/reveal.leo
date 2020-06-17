@@ -54,6 +54,24 @@
 <v t="leo.20200618000538.1"><vh>week10-14</vh>
 <v t="leo.20200618000538.2"><vh>week10-14</vh></v>
 </v>
+<v t="leo.20200618003351.1"><vh>google用戶登入設置</vh>
+<v t="leo.20200618003351.2"><vh>google用戶登入設置</vh></v>
+</v>
+<v t="leo.20200618003550.1"><vh>google用戶登入設置</vh>
+<v t="leo.20200618003550.2"><vh>google用戶登入設置</vh></v>
+</v>
+<v t="leo.20200618003809.1"><vh>建立ssh連線</vh>
+<v t="leo.20200618003809.2"><vh>建立ssh連線</vh></v>
+</v>
+<v t="leo.20200618004312.1"><vh>Ubuntu 對外連線設定</vh>
+<v t="leo.20200618004312.2"><vh>Ubuntu 對外連線設定</vh></v>
+</v>
+<v t="leo.20200618004349.1"><vh>分配assignment3</vh>
+<v t="leo.20200618004349.2"><vh>assignment3</vh></v>
+</v>
+<v t="leo.20200618004506.1"><vh>assignment3</vh>
+<v t="leo.20200618004506.2"><vh>assignment3</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -436,5 +454,108 @@ vertical: body pane on the botton</t>
 
 
 &lt;iframe height="600" src="https://s40723244.github.io/cd2020/downloads/Assignment 2.pdf" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618003351.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618003351.2">## google用戶登入設置
+
+GOOGLE+ Domain  API
+
+1.登錄到您的@gm帳戶
+
+2.連接到https://console.developers.google.com
+
+3.接受許可並創建Google API項目
+
+4.啟用Google的API
+
+5.在Google Domain API憑據下，按設置同意按鈕按鈕
+
+6.選擇內部或外部用戶類型並添加新的應用程序名稱
+
+7.在“API和服務”下，進入“憑據”頁面
+
+</t>
+<t tx="leo.20200618003550.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618003550.2">8.Web應用程序創建“ OAuth 2.0客戶端ID”類型的憑據
+
+9.授權的JavaScript為：https：// localhost：8443
+
+10.URI為：https：// localhost：8443 / login / google /
+
+11.將oauth_gm.txt保存中
+
+12.開啟leo更改config中的scrum，並且修改完成之後按下save和darwROC
+
+13.pip install authomatic
+
+14.開啟https://localhost:8443
+
+15.測試是否可以成功運作
+
+</t>
+<t tx="leo.20200618003809.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618003809.2">## 建立ssh連線
+
+&lt;iframe height="600" src="https://s40723244.github.io/cd2020/content/week10-14.html" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618004312.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618004312.2">## Ubuntu 對外連線設定
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/bHb9e6jNgYE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618004349.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618004349.2">## 各組分配assignment3作業
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/jr4IxIwdHLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618004506.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618004506.2">## assignment3報告
+
+
+&lt;iframe height="600" src="https://s40723244.github.io/cd2020/downloads/Assignment 3.pdf" width="880"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
