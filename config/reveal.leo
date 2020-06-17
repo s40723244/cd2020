@@ -24,22 +24,14 @@
 <v t="leo.20200617234649.1"><vh>week1</vh>
 <v t="leo.20200617234649.2"><vh>week1</vh></v>
 </v>
-<v t="leo.20200617234656.1"><vh>week2</vh>
-<v t="leo.20200617234656.2"><vh>week2</vh></v>
+<v t="leo.20200617234656.1"><vh>week2-5</vh>
+<v t="leo.20200617234656.2"><vh>week2-5</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180902120523.11"><vh>week6-9</vh>
+<v t="leo.20180902120523.12"><vh>week6-9</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
-</v>
-<v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
-<v t="leo.20180902120523.17"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20180902120523.18"><vh>導入影片</vh>
-<v t="leo.20180902120523.19"><vh>iframe 導入影片</vh></v>
-</v>
+<v t="leo.20200618000538.1"><vh>week10-14</vh>
+<v t="leo.20200618000538.2"><vh>week10-14</vh></v>
 </v>
 </v>
 </v>
@@ -73,92 +65,15 @@
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12">## WEEK6-9 任務目標
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+1.遠距離教學相關設置(OBS)
 
-</t>
-<t tx="leo.20180902120523.13">&lt;section&gt;
-@others
-&lt;/section&gt;
+2.安裝pip模組、更新v-rap
 
-</t>
-<t tx="leo.20180902120523.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+3.各組分配assignment2作業
 
-
-
-						
-</t>
-<t tx="leo.20180902120523.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180902120523.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180902120523.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180902120523.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180902120523.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+4.各自完成assignment2報告
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
@@ -370,6 +285,27 @@ vertical: body pane on the botton</t>
 
 
 
+</t>
+<t tx="leo.20200618000538.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618000538.2">## WEEK6-9 任務目標
+
+1.GOOGLE用戶登入設置
+
+2.建立SSH連線
+
+3.Ubuntu 對外連線設定
+
+4.各組分配assignment3作業
+
+5.各自完成assignment3報告
 </t>
 </tnodes>
 </leo_file>
