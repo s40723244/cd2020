@@ -27,6 +27,18 @@
 <v t="leo.20200617234656.1"><vh>week2-5</vh>
 <v t="leo.20200617234656.2"><vh>week2-5</vh></v>
 </v>
+<v t="leo.20200618001206.1"><vh>python</vh>
+<v t="leo.20200618001206.2"><vh>python</vh></v>
+</v>
+<v t="leo.20200618001330.1"><vh>分組倉儲</vh>
+<v t="leo.20200618001330.2"><vh>分組倉儲</vh></v>
+</v>
+<v t="leo.20200618001607.1"><vh>分配assignment1</vh>
+<v t="leo.20200618001607.2"><vh>assignment1</vh></v>
+</v>
+<v t="leo.20200618001733.1"><vh>assignment1</vh>
+<v t="leo.20200618001733.2"><vh>assignment1</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>week6-9</vh>
 <v t="leo.20180902120523.12"><vh>week6-9</vh></v>
 </v>
@@ -281,7 +293,6 @@ vertical: body pane on the botton</t>
 
 4.各自完成assignment1報告
 
-&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/vKXiT8ARbAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -295,11 +306,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200618000538.2">## WEEK6-9 任務目標
+<t tx="leo.20200618000538.2">## WEEK10-14 任務目標
 
-1.GOOGLE用戶登入設置
+1.google用戶登入設置
 
-2.建立SSH連線
+2.建立ssh連線
 
 3.Ubuntu 對外連線設定
 
@@ -307,5 +318,63 @@ vertical: body pane on the botton</t>
 
 5.各自完成assignment3報告
 </t>
+<t tx="leo.20200618001206.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618001206.2">## 更新python至3.8.2
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/vKXiT8ARbAA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200618001330.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618001330.2">## 建立分組倉儲
+
+．[分組網站](https://s40723221.github.io/cd2020bg2/content/index.html)
+
+．[分組倉儲](https://github.com/s40723221/cd2020bg2)
+</t>
+<t tx="leo.20200618001607.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618001607.2">## 各組分配assignment1作業
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/HXS95dlMSv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200618001733.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618001733.2">## assignment1報告
+
+
+&lt;iframe height="600" src="https://s40723244.github.io/cd2020/downloads/Assignment 1.pdf" width="880"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
