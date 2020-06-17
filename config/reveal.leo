@@ -42,6 +42,15 @@
 <v t="leo.20180902120523.11"><vh>week6-9</vh>
 <v t="leo.20180902120523.12"><vh>week6-9</vh></v>
 </v>
+<v t="leo.20200618002643.1"><vh>安裝pip模組、更新v-rap</vh>
+<v t="leo.20200618002643.2"><vh>安裝pip模組、更新v-rap</vh></v>
+</v>
+<v t="leo.20200618003142.1"><vh>分配assignment2</vh>
+<v t="leo.20200618003142.2"><vh>assignment2</vh></v>
+</v>
+<v t="leo.20200618003230.1"><vh>assignment2</vh>
+<v t="leo.20200618003230.2"><vh>assignment2</vh></v>
+</v>
 <v t="leo.20200618000538.1"><vh>week10-14</vh>
 <v t="leo.20200618000538.2"><vh>week10-14</vh></v>
 </v>
@@ -376,5 +385,56 @@ vertical: body pane on the botton</t>
 
 
 &lt;iframe height="600" src="https://s40723244.github.io/cd2020/downloads/Assignment 1.pdf" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200618002643.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618002643.2">## 安裝pip模組、更新v-rap
+
+1.pip install opencv-python
+
+2.pip install imutils
+
+3.pip install numpy
+
+[更新V-RAP](https://www.coppeliarobotics.com/downloads)
+
+可攜版本:[CoppeliaSim Edu](https://www.coppeliarobotics.com/files/CoppeliaSim_Edu_V4_0_0_Win.zip), [Binaries](https://www.coppeliarobotics.com/files/CoppeliaSim_Edu_V4_0_0_Win.zip)
+
+
+</t>
+<t tx="leo.20200618003142.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618003142.2">## 各組分配assignment2作業
+
+&lt;iframe width="556" height="310" src="https://www.youtube.com/embed/B6zwMXl1V3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20200618003230.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200618003230.2">## assignment2報告
+
+
+&lt;iframe height="600" src="https://s40723244.github.io/cd2020/downloads/Assignment 2.pdf" width="880"&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
