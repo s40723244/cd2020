@@ -21,6 +21,12 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200617234649.1"><vh>week1</vh>
+<v t="leo.20200617234649.2"><vh>week1</vh></v>
+</v>
+<v t="leo.20200617234656.1"><vh>封面投影片</vh>
+<v t="leo.20200617234656.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -50,7 +56,7 @@
 ### 40723244 劉冠志
 
 &lt;small&gt;
-[課程網站](https://s40723244.github.io/cd2020/content/index.html)
+[個人網站](https://s40723244.github.io/cd2020/content/index.html)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
@@ -323,5 +329,47 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="leo.20180902120538.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="leo.20200617234649.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617234649.2">## CMSimfly 網際內容管理
+
+### 40723244 劉冠志
+
+&lt;small&gt;
+[課程網站](https://s40723244.github.io/cd2020/content/index.html)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
+<t tx="leo.20200617234656.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617234656.2">## CMSimfly 網際內容管理
+
+### 40723244 劉冠志
+
+&lt;small&gt;
+[課程網站](https://s40723244.github.io/cd2020/content/index.html)
+&lt;/small&gt;
+
+[CMSimfly 網誌](./../blog/index.html)
+
+
+</t>
 </tnodes>
 </leo_file>
