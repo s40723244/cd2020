@@ -86,15 +86,13 @@
 
 ### 40723244 劉冠志
 
+[個人倉儲](https://github.com/s40723244/cd2020)
 
 [個人網站](https://s40723244.github.io/cd2020/content/index.html)
 
-[分組網站](https://s40723221.github.io/cd2020bg2/content/index.html)
+[分組倉儲](https://github.com/s40723221/cd2020bg2)
 
-[CMSimfly 網誌](./../blog/index.html)
-
-
-</t>
+[分組網站](https://s40723221.github.io/cd2020bg2/content/index.html)</t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
