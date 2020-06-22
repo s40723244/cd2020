@@ -72,6 +72,15 @@
 <v t="leo.20200618004506.1"><vh>assignment3</vh>
 <v t="leo.20200618004506.2"><vh>assignment3</vh></v>
 </v>
+<v t="leo.20200623042210.1"><vh>week15-18</vh>
+<v t="leo.20200623042210.2"><vh>week15-18</vh></v>
+</v>
+<v t="leo.20200623042318.1"><vh>建立IPV6遠端控制</vh>
+<v t="leo.20200623042318.2"><vh>建立IPV6遠端控制</vh></v>
+</v>
+<v t="leo.20200623042508.1"><vh>拍攝期末報告影片</vh>
+<v t="leo.20200623042508.2"><vh>拍攝期末報告影片</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -555,5 +564,59 @@ GOOGLE+ Domain  API
 
 
 &lt;iframe height="600" src="https://s40723244.github.io/cd2020/downloads/Assignment 3.pdf" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623042210.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623042210.2">## WEEK15-18 任務目標
+
+1.建立IPV6遠端控制
+
+2.拍攝期末報告影片
+
+</t>
+<t tx="leo.20200623042318.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623042318.2">## 建立IPV6遠端控制
+
+1.修改IPv6網路設定及虛擬主機網路設定。
+
+2.開啟虛擬主機，輸入密碼kmol2020。
+
+3.開啟Lxterminal，在tmp下clone個人倉儲。
+
+4.輸入ifconfig查詢IPv6的地址。
+
+5.進入cd2020/cmsimde。
+
+6.輸入sudo vi wsgi.py,將host改為IPv6地址。
+
+7.完成後存儲，並輸入python3 wsgi.py啟動。
+
+8.https://[2001:288:6004:17:2020:2:0:7244]:19443。</t>
+<t tx="leo.20200623042508.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200623042508.2">## 拍攝期末報告影片
+
+</t>
 </tnodes>
 </leo_file>
